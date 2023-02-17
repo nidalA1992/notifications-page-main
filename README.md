@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/nidalA1992/notification-page-main-vue
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://nidala1992.github.io/notifications-page-main
 
 ## My process
 
@@ -52,11 +52,11 @@ Conditional and list rendering
 ```
 Computed props and Reactive data
 ```js
-<!--computed-->
+// computed
 const amount = computed(() =>
         notifications.reduce((amount, item) => (item.unread ? ++amount : amount), 0)
 );
-<!--reactive-->
+// reactive
 const notifications = reactive(data);
 ```
 Slots
