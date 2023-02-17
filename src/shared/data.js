@@ -1,6 +1,6 @@
 const d = [
   {
-    avatarPath: "/avatars/avatar-mark-webber.webp",
+    avatarPath: "./avatars/avatar-mark-webber.webp",
     notification: "reacted to your recent post",
     author: "Mark Webber",
     link: "My first tournament today!",
@@ -9,7 +9,7 @@ const d = [
     unread: true,
   },
   {
-    avatarPath: "/avatars/avatar-angela-gray.webp",
+    avatarPath: "./avatars/avatar-angela-gray.webp",
     notification: "followed you",
     author: "Angela Gray",
     link: "",
@@ -18,7 +18,7 @@ const d = [
     unread: true,
   },
   {
-    avatarPath: "/avatars/avatar-jacob-thompson.webp",
+    avatarPath: "./avatars/avatar-jacob-thompson.webp",
     notification: "has joined your group",
     author: "Jacob Thompson",
     link: "Chess Club",
@@ -27,7 +27,7 @@ const d = [
     unread: true,
   },
   {
-    avatarPath: "/avatars/avatar-rizky-hasanuddin.webp",
+    avatarPath: "./avatars/avatar-rizky-hasanuddin.webp",
     notification: "sent you a private message",
     author: "Rizky Hasanuddin",
     link: "",
@@ -37,16 +37,16 @@ const d = [
       "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
   },
   {
-    avatarPath: "/avatars/avatar-kimberly-smith.webp",
+    avatarPath: "./avatars/avatar-kimberly-smith.webp",
     notification: "commented on your picture",
-    commentedPicture: "/images/image-chess.webp",
+    commentedPicture: "./images/image-chess.webp",
     author: "Kimberly Smith",
     link: "Chess Club",
     linkPath: "#",
     time: "1 week ago",
   },
   {
-    avatarPath: "/avatars/avatar-nathan-peterson.webp",
+    avatarPath: "./avatars/avatar-nathan-peterson.webp",
     notification: "reacted to your recent post",
     author: "Nathan Peterson",
     link: "5 end-game strategies to increase your win rate",
@@ -54,7 +54,7 @@ const d = [
     time: "2 weeks ago",
   },
   {
-    avatarPath: "/avatars/avatar-anna-kim.webp",
+    avatarPath: "./avatars/avatar-anna-kim.webp",
     notification: "left the group",
     author: "Anna Kim",
     link: "Chess Club",

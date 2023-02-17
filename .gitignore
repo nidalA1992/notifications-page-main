@@ -40,5 +40,5 @@ coverage
 
 # Avoid your project being littered with annoying .DS_Store files!
 .prettierignore
-_index.html
+__index.html
 .vscode
